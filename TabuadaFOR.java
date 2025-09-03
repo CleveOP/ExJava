@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane; // Importa a classe para usar caixas de diálogo
 
-public class Tabuada {
+public class TabuadaFOR {
     public static void main(String[] args) {
         // Solicita ao usuário que digite um número e converte o texto para inteiro
         int numero = Integer.parseInt(JOptionPane.showInputDialog("Digite um número para ver a tabuada:"));
