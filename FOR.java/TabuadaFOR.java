@@ -1,3 +1,4 @@
+
 import javax.swing.JOptionPane; // Importa a classe para usar caixas de diálogo
 
 public class TabuadaFOR {
